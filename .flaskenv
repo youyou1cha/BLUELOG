@@ -1,2 +1,2 @@
 FLASK_APP=bluelog
-FLASK_ENV=develpment
+FLASK_ENV=development
